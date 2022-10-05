@@ -1,0 +1,9 @@
+.link{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 0 5px;
+}
